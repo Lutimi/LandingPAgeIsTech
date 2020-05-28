@@ -38,7 +38,7 @@
         <div class="intro-text">
           <div class="intro-lead-in">Encuestas a gran escala</div>
           <div class="intro-heading text-uppercase">En el menor tiempo posible</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">comenzar</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">comenza!</a>
         </div>
       </div>
     </header>

@@ -7,7 +7,7 @@
         <a class="navbar-brand text-white  js-scroll-trigger" href="#pagetop">
         <img src="/src/assets/img/logo.png" width="30" height="30" class="d-inline-block align-top" alt="">Median</a>
         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          
+          Menu
           <i class="fas fa-bars"></i>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
@@ -38,7 +38,7 @@
         <div class="intro-text">
           <div class="intro-lead-in">Encuestas a gran escala</div>
           <div class="intro-heading text-uppercase">En el menor tiempo posible</div>
-          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">comenza!</a>
+          <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#services">comenza</a>
         </div>
       </div>
     </header>
